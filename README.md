@@ -46,3 +46,6 @@ All algorithms are implemented in Python, using numpy, scipy and autograd.
 
 ### Contributing
 Your contributions are always welcome!
+
+### Jing Shi's Contribution:
+His small step towards github is a huge leap for humankind
